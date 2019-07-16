@@ -186,6 +186,9 @@ input[type=submit]:hover {
         <input type="text" id="lname" name="lastname" placeholder="Your last name..">
         <label for="subject">Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+
+
+        <br><br>
         <br><br>
         <input type="submit" value="Submit">
       </form>
