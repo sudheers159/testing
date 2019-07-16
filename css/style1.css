@@ -1,0 +1,29 @@
+.col-md-9 span {
+    font-size: 33px;
+    margin-left: 55px;
+}
+
+.col-md-3 span {
+    font-size: 33px;
+}
+
+.icon_img img {
+    height: 80px;
+    width: 80px;
+    margin-right: 11px;
+}
+
+.col {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.col_img img{
+	width: 146px;
+
+padding: 11px;
+}
+
+.row .col-md-3{
+	margin-top: 15px;
+}
